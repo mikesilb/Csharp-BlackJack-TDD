@@ -1,0 +1,6 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/bin/Debug/Hand.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/bin/Debug/Hand.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.pdb

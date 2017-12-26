@@ -1,0 +1,10 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/nunit.framework.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/nunit.framework.xml
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/obj/Debug/Deck.Library.Tests.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/obj/Debug/Deck.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/obj/Debug/Deck.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/obj/Debug/Deck.Library.Tests.csprojResolveAssemblyReference.cache

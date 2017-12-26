@@ -1,0 +1,5 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/BlackJackTDD.exe
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/BlackJackTDD.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.exe
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.pdb

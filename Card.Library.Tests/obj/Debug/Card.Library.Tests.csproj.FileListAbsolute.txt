@@ -1,0 +1,10 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/Card.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/Card.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/nunit.framework.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/Card.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/bin/Debug/nunit.framework.xml
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/obj/Debug/Card.Library.Tests.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/obj/Debug/Card.Library.Tests.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/obj/Debug/Card.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library.Tests/obj/Debug/Card.Library.Tests.pdb

@@ -1,0 +1,5 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library/obj/Debug/Card.Library.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library/bin/Debug/Card.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library/obj/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Card.Library/obj/Debug/Card.Library.pdb
