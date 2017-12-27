@@ -3,3 +3,10 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.csproj.CoreCompileInputs.cache
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.exe
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/obj/x86/Debug/BlackJackTDD.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Deck.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Hand.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Card.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Deck.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJackTDD/bin/Debug/Hand.Library.pdb

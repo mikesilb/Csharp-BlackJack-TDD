@@ -1,6 +1,6 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/bin/Debug/Deck.Library.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/bin/Debug/Deck.Library.pdb
-/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Deck.Library.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Class.Library.Deck.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Class.Library.Deck.csproj.CoreCompileInputs.cache
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Deck.Library.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Deck.Library.pdb
-/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library/obj/Debug/Deck.Library.csprojResolveAssemblyReference.cache

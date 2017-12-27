@@ -1,16 +1,25 @@
 ﻿<Properties StartupConfiguration="{7E82EE19-97A5-4223-8993-3BAE7B199F31}|Default">
   <MonoDevelop.Ide.ItemProperties.BlackJackTDD PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hand.Library/Hand.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Card.Library.Tests/CardTests.cs">
     <Files>
-      <File FileName="BlackJackTDD/Program.cs" Line="1" Column="1" />
-      <File FileName="Card.Library/Card.cs" Line="8" Column="10" />
-      <File FileName="Deck.Library/Deck.cs" Line="8" Column="10" />
-      <File FileName="Hand.Library/Hand.cs" Line="8" Column="10" />
+      <File FileName="BlackJackTDD/Program.cs" Line="11" Column="46" />
+      <File FileName="Card.Library/Card.cs" Line="3" Column="15" />
+      <File FileName="Card.Library.Tests/CardTests.cs" Line="10" Column="15" />
+      <File FileName="Deck.Library/Deck.cs" Line="2" Column="15" />
+      <File FileName="Hand.Library/Hand.cs" Line="8" Column="2" />
+      <File FileName="Deck.Library.Tests/DeckTests.cs" Line="8" Column="15" />
+      <File FileName="BlackJack.Tests/BlackjackTests.cs" Line="8" Column="15" />
+      <File FileName="Hand.Library.Tests/HandTests.cs" Line="8" Column="15" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="BlackJackTDD" expanded="True" selected="True" />
+          <Node name="BlackJackTDD" expanded="True">
+            <Node name="BlackJack.Tests" expanded="True" />
+            <Node name="Card.Library.Tests" expanded="True" />
+            <Node name="Deck.Library.Tests" expanded="True" />
+            <Node name="Hand.Library.Tests" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
