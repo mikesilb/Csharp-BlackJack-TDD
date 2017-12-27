@@ -41,6 +41,10 @@
       <Project>{3881BF10-9601-4953-94F6-1E4F5F605C06}</Project>
       <Name>Deck.Library</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Card.Library\Card.Library.csproj">
+      <Project>{79F08B03-8F93-4B8F-94D4-3B158D03D8BA}</Project>
+      <Name>Card.Library</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

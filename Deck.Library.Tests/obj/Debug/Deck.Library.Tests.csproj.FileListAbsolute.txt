@@ -8,3 +8,5 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Deck.Library.pdb
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/obj/Debug/Deck.Library.Tests.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Deck.Library.Tests/bin/Debug/Card.Library.pdb

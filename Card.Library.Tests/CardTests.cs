@@ -8,7 +8,7 @@ namespace CardLibrary.Tests
     public class CardTests
     {
         [Test]
-        public void TestCases()
+        public void TestingCardConstructor()
         {
             Card card1 = new Card("♦", "2");
             Card card2 = new Card("♥", "2");
@@ -16,17 +16,20 @@ namespace CardLibrary.Tests
             Card card4 = new Card("♥", "K");
 
 
-            Assert.AreNotEqual(card1.GetSuit(), "♥");
-            Assert.AreEqual(card1.GetSuit(), "♦");
-            Assert.AreNotEqual(card1.GetRank(), "7");
-            Assert.AreNotEqual(card1.GetRank(), "K");
-            Assert.AreEqual(card1.GetRank(), "2");
-            Assert.AreEqual(card2.GetSuit(), "♥");
-            Assert.AreEqual(card3.GetSuit(), "♥");
-            Assert.AreEqual(card4.GetSuit(), "♥");
-            Assert.AreEqual(card2.GetRank(), "2");
-            Assert.AreEqual(card3.GetRank(), "10");
-            Assert.AreEqual(card4.GetRank(), "K");
+            Assert.AreNotEqual(card1.suit, "♥");
+            Assert.AreEqual(card1.suit, "♦");
+            Assert.AreNotEqual(card1.rank, "7");
+            Assert.AreNotEqual(card1.rank, "K");
+            Assert.AreEqual(card1.rank, "2");
+            Assert.AreEqual(card1.output(), "(♦, 2)");
+            Assert.AreNotEqual(card1.output(), "(♥, 2)");
+            Assert.AreNotEqual(card1.output(), "(♦, 5)");
+            Assert.AreEqual(card2.suit, "♥");
+            Assert.AreEqual(card3.suit, "♥");
+            Assert.AreEqual(card4.suit, "♥");
+            Assert.AreEqual(card2.rank, "2");
+            Assert.AreEqual(card3.rank, "10");
+            Assert.AreEqual(card4.rank, "K");
         }
     }
 }
