@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Deck.Library
+namespace DeckLibrary
 {
     public class Deck
     {
