@@ -4,8 +4,8 @@ namespace CardLibrary
 {
     public class Card
     {
-        private string suit;
-        private string rank;
+        public string suit { get; set; } 
+        public string rank { get; set; }
 
         public Card(string newSuit, string newRank)
         {
@@ -13,35 +13,9 @@ namespace CardLibrary
             this.rank = newRank;
         }
 
-        public string GetSuit()
+        public string output()
         {
-            return this.suit;
+            return $"({suit}, {rank})";
         }
-
-        public void SetSuit(string newSuit)
-        {
-            this.suit = newSuit;
-        }
-
-        public string GetRank()
-        {
-            return this.rank;
-        }
-
-        public string GetNonNumbersRank()
-        {
-            return this.rank;
-        }
-
-        public int GetNumbersRank()
-        {
-            return Int16.Parse(this.rank);
-        }
-
-        public void SetRank(string newRank)
-        {
-            this.rank = newRank;
-        }
-
     }
 }
