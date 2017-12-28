@@ -1,28 +1,16 @@
 ﻿<Properties StartupConfiguration="{7E82EE19-97A5-4223-8993-3BAE7B199F31}|Default">
   <MonoDevelop.Ide.ItemProperties.BlackJackTDD PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Card.Library.Tests/CardTests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hand.Library.Tests/HandTests.cs">
     <Files>
-      <File FileName="BlackJackTDD/Program.cs" Line="11" Column="46" />
-      <File FileName="Card.Library/Card.cs" Line="3" Column="15" />
-      <File FileName="Card.Library.Tests/CardTests.cs" Line="10" Column="15" />
-      <File FileName="Deck.Library/Deck.cs" Line="2" Column="15" />
-      <File FileName="Hand.Library/Hand.cs" Line="8" Column="2" />
-      <File FileName="Deck.Library.Tests/DeckTests.cs" Line="8" Column="15" />
+      <File FileName="BlackJackTDD/Program.cs" Line="26" Column="15" />
+      <File FileName="Card.Library/Card.cs" Line="7" Column="42" />
+      <File FileName="Card.Library.Tests/CardTests.cs" Line="11" Column="43" />
+      <File FileName="Hand.Library/Hand.cs" Line="8" Column="55" />
+      <File FileName="Deck.Library/Deck.cs" Line="38" Column="27" />
       <File FileName="BlackJack.Tests/BlackjackTests.cs" Line="8" Column="15" />
-      <File FileName="Hand.Library.Tests/HandTests.cs" Line="8" Column="15" />
+      <File FileName="Hand.Library.Tests/HandTests.cs" Line="12" Column="47" />
+      <File FileName="Deck.Library.Tests/DeckTests.cs" Line="34" Column="10" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="BlackJackTDD" expanded="True">
-            <Node name="BlackJack.Tests" expanded="True" />
-            <Node name="Card.Library.Tests" expanded="True" />
-            <Node name="Deck.Library.Tests" expanded="True" />
-            <Node name="Hand.Library.Tests" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

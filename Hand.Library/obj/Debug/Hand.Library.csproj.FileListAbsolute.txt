@@ -4,3 +4,5 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/bin/Debug/Hand.Library.pdb
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/obj/Debug/Hand.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/Hand.Library/bin/Debug/Card.Library.pdb
