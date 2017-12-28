@@ -1,6 +1,8 @@
 ﻿using System;
 using CardLibrary;
 using DeckLibrary;
+using HandLibrary;
+using System.Collections.Generic;
 
 namespace BlackJackTDD
 {
