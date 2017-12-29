@@ -8,3 +8,9 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/obj/Debug/BlackJack.Tests.csproj.CoreCompileInputs.cache
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/obj/Debug/BlackJack.Tests.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/obj/Debug/BlackJack.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Card.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Deck.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Hand.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Card.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Deck.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/BlackJackTDD/BlackJack.Tests/bin/Debug/Hand.Library.pdb
