@@ -15,6 +15,17 @@ namespace BlackJack.Tests
         {
             Blackjack testBj = new Blackjack();
             Assert.AreEqual(testBj.GetGameDataDeck()["Game Deck"].theDeck.Length, 52);
+            Assert.AreNotEqual(testBj.GetGameDataDeck()["Game Deck"].theDeck[0].output(), "(♦, 2)");
+        }
+        [Test]
+        public void TestInitialDeal()
+        {
+            Blackjack testBj = new Blackjack();
+            Assert.AreEqual(testBj.GetGameDataHand()["Player Hand"].cardCollection.Count, 0);
+            Assert.AreEqual(testBj.GetGameDataHand()["Dealer Hand"].cardCollection.Count, 0);
+            testBj.InitialDeal();
+            Assert.AreEqual(testBj.GetGameDataHand()["Player Hand"].cardCollection.Count, 2);
+            Assert.AreEqual(testBj.GetGameDataHand()["Dealer Hand"].cardCollection.Count, 2);
         }
     }
 //       let(:bj)
